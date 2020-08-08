@@ -1,2 +1,2 @@
 web: node app.js
-web: peerjs --port 3999
+web: peerjs --port 3001
